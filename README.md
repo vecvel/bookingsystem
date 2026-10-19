@@ -2,14 +2,14 @@
 
 > High-performance, offline-capable Box Office Point-of-Sale (POS), Dynamic Screen & Seat Layout Designer, Thermal Ticket Printing Engine, GST/Tax Compliance Management Suite, and Offline Cryptographic Hardware-Bound Licensing.
 
-[![Author](https://img.shields.io/badge/Author-besaoct-blue.svg)](https://github.com/besaoct)
+[![Author](https://img.shields.io/badge/Author-vecvel-blue.svg)](https://github.com/vecvel)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7.3-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.4.3-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![SQLite WASM](https://img.shields.io/badge/Database-SQL.js%20(WASM)-003B57?logo=sqlite&logoColor=white)](https://sql.js.org/)
 [![Electron](https://img.shields.io/badge/Desktop-Electron%2034-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/besaoct)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/vecvel)
 
 ---
 
@@ -93,7 +93,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/besaoct/bookingsystem.git
+   git clone https://github.com/vecvel/bookingsystem.git
    cd bookingsystem
    ```
 
@@ -279,10 +279,10 @@ bookingsystem/
 
 If you find this project valuable and would like to support its ongoing development, features, and maintenance, you can sponsor through **GitHub Sponsors**:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/besaoct)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/vecvel)
 
-* **Sponsor Link:** [https://github.com/sponsors/besaoct](https://github.com/sponsors/besaoct)
-* For corporate sponsorships, dedicated feature requests, custom cinema POS hardware integrations, and commercial licensing, contact **[besaoct](https://github.com/besaoct)** directly.
+* **Sponsor Link:** [https://github.com/sponsors/vecvel](https://github.com/sponsors/vecvel)
+* For corporate sponsorships, dedicated feature requests, custom cinema POS hardware integrations, and commercial licensing, contact **[vecvel](https://github.com/vecvel)** directly.
 
 ---
 
@@ -290,8 +290,8 @@ If you find this project valuable and would like to support its ongoing developm
 
 This project is released under a **Proprietary and Confidential Software License**.
 
-**Copyright (c) 2026 besaoct. All rights reserved.**
+**Copyright (c) 2026 vecvel. All rights reserved.**
 
-No part of this source code may be copied, modified, distributed, or deployed in any form without explicit written permission from the author. For commercial licensing inquiries, contact **[besaoct](https://github.com/besaoct)**.
+No part of this source code may be copied, modified, distributed, or deployed in any form without explicit written permission from the author. For commercial licensing inquiries, contact **[vecvel](https://github.com/vecvel)**.
 
 See [LICENSE](LICENSE) for full legal terms.
