@@ -61,8 +61,8 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the project author at:
 
-**Author**: besaoct  
-**GitHub**: [https://github.com/besaoct](https://github.com/besaoct)
+**Author**: vecvel  
+**GitHub**: [https://github.com/vecvel](https://github.com/vecvel)
 
 All complaints will be reviewed and investigated promptly and fairly. All
 community leaders are obligated to respect the privacy and security of the
